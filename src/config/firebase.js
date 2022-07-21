@@ -19,13 +19,13 @@ import {
 } from "firebase/firestore";
 
 const firebaseConfig = {
-    apiKey: process.env.REACT_APP_FIREBASE_KEY,
-    authDomain: process.env.REACT_APP_FIREBASE_DOMAIN,
-    projectId: process.env.REACT_APP_FIREBASE_PROJECT_ID,
-    storageBucket: process.env.REACT_APP_FIREBASE_STORAGE_BUCKET,
-    messagingSenderId: process.env.REACT_APP_FIREBASE_SENDER_ID,
-    appId: process.env.REACT_APP_FIREBASE_APP_ID,
-    measurementId: process.env.REACT_APP_FIREBASE_MEASUREMENT_ID,
+    apiKey: "AIzaSyD67i99sKpyQEvu3EiSsK2yCdz0ceZZukk",
+    authDomain: "sprigan-movie.firebaseapp.com",
+    projectId: "sprigan-movie",
+    storageBucket: "sprigan-movie.appspot.com",
+    messagingSenderId: "530107618165",
+    appId: "1:530107618165:web:a62a4969c03b79cf49793c",
+    measurementId: "G-Y7PM26CTLW",
 
 };
 
